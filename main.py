@@ -303,5 +303,9 @@ class WokwiCharEditor(App[None]):
         self._clear()
 
 
-if __name__ == "__main__":
+def main() -> None:
     WokwiCharEditor().run()
+
+
+if __name__ == "__main__":
+    main()
