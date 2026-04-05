@@ -6,9 +6,23 @@ A simple editor for creating custom LCD characters for Wokwi simulations.
 
 ## Usage
 
+### Install from GitHub
+
+```bash
+pip install git+https://github.com/jokelbaf/wokwi-lcd-char-editor.git
+```
+
+Then run:
+
+```bash
+wokwi-char
+```
+
+### Clone the repo
+
 1. Clone the repo:
 ```bash
-git clone https://github.com/jokelbaf/wokwi-lcd-char-editor
+git clone https://github.com/jokelbaf/wokwi-lcd-char-editor.git
 ```
 2. Install deps:
 ```bash
